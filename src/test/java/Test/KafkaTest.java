@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.tungtung.bigdataplatform.sdk.hdfsStorage;
+package Test;
 
 /**
  *
  * @author tuannv6
  */
-public class HdfsConnection {
+public class KafkaTest {
     
 }
